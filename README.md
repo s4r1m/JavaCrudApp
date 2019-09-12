@@ -3,7 +3,7 @@ CRUD app made in Java, built in Maven, connected to MySql and logged using Logba
 
 ## Project Flow
 The project uses the main class to initiate an object of the interface class, which then creates and object of the SQL Controller class which initializes with a connection to the SQL server at localhost.
-https://github.com/s4r1m/JavaCrudApp/blob/2dc8613428fd78fc3808a346186501cbc95b921c/SqlController.java#L12-L27
+<script src="https://gist.github.com/s4r1m/be450fa5ebce83d04247972cecba2e6d.js"></script>
 
 Since the project is a console application the frontend of the app is on the console.
 https://github.com/s4r1m/JavaCrudApp/blob/2dc8613428fd78fc3808a346186501cbc95b921c/InterfaceController.java#L23-L68
